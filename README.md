@@ -12,8 +12,9 @@ To get started with the QAPipeline using LLMs, follow these steps:
 
 1. Clone this repository to kaggle or your local machine.
 2. Open the "qa-llamacpp-pipeline" notebook.
-3. Run the notebook cells to execute the tasks and generate summaries, questions, and answers.
+3. Configure notebook environment and input pdf.
+4. Run the notebook cells to execute the tasks and generate summaries, questions, and answers.
 
 ## Acknowledgments
 
-- This project utilizes the compute power generously provided by Kaggle and open large language models available on huggingface using llamacpp.
+- This project utilized the compute power generously provided by Kaggle and open large language models available on huggingface using llamacpp.
