@@ -5,10 +5,12 @@ This repository contains a Python script for processing books and generating sum
 ## Overview
 
 The "qa-llamacpp-pipeline" notebook contains all the code required to execute the tasks. The pipeline is designed to allow you to easily extract meaningful insights from books PDF files. We implement three naive LLM chains followed by a regex to generate the dataset.
+
 LLM Chains:
-![LLM Chains](images\chains.drawio.png)
+![LLM Chains](https://github.com/lomash-relia/QAPipleline-using-LLMs/blob/main/images/chains.drawio.png?raw=true)
+
 Sample Output (without regex):
-![Sample](images\sample-output.png)
+![Sample](https://github.com/lomash-relia/QAPipleline-using-LLMs/blob/main/images/sample-output.png?raw=true)
 
 ## Getting Started
 
